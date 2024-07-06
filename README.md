@@ -1,5 +1,5 @@
 # Resume Parser App - GPT PROMPT
-
+**PROMPT**
 Create a Streamlit application for parsing a resume PDF and displaying its contents as JSON. The application includes the following features:
 
 1. **Upload functionality for a PDF file.**
