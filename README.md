@@ -10,6 +10,7 @@ Create a Streamlit application for parsing a resume PDF and displaying its conte
    - Number of sections/categories found in the resume content (e.g., Experience, Education, Skills).
 3. **Display the parsed content under each section heading, with each line of text on a separate line.**
 4. **Provide a download button to download the parsed resume content as JSON.**
+   
 **COPY-PASTE THIS PROMPT TO GET THIS CODE**
 ## Demo
 
