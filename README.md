@@ -12,7 +12,6 @@
 3. **Display the parsed content under each section heading, with each line of text on a separate line.**
 4. **Provide a download button to download the parsed resume content as JSON.**
    
-**COPY-PASTE THIS PROMPT TO GET THIS CODE**
 ## Demo
 
 ![Demo](./demo.png)
