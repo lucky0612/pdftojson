@@ -22,7 +22,16 @@ To run the application locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/your-repo.git
-   cd your-repo 
-```bash
-   git clone https://github.com/your-username/your-repo.git
    cd your-repo
+   exit \$
+   
+2.	Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   exit \$
+
+3.	Run the Streamlit application:
+   ```bash
+   streamlit run app.py
+   exit \$
+
